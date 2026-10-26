@@ -1,0 +1,3 @@
+# Authorised sellers of Dunefall's ad space (IAB app-ads.txt). The AdMob line comes from the AdMob console
+# (Apps → View all apps → app-ads.txt); each mediation partner adds its own line when it is enabled.
+google.com, pub-3746433195980710, DIRECT, f08c47fec0942fa0
